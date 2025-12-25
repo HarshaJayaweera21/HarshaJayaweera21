@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=00BFFF&size=25&center=true&vCenter=true&width=700&height=100&lines=Computing+Undergraduate+specialising+in+Cybersecurity;Passionate+about+AI,+Networking,+and+Cybersecurity;Always+exploring+new+tech!;Sri+Lanka">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=00BFFF&size=25&center=true&vCenter=true&width=700&height=100&lines=Computing+Undergraduate+specialising+in+Artificial Intelligence;Passionate+about+AI,+Networking,+and+Cybersecurity;Always+exploring+new+tech!;Sri+Lanka">
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 <br><br>
 
-- :student: I’m currently learning `BSc (Hons) in Information Technology Specializing in Cyber Security`.
+- :student: I’m currently learning `BSc (Hons) in Information Technology Specializing in Artificial Intelligence`.
 - :nerd_face: Always `learning new things`.
 - :boom: How to reach me `harshajayaweera1965@gmail.com`.
 <br>
